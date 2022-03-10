@@ -1,0 +1,3 @@
+﻿  LineCross.cpp
+C:\Users\adminyus\source\repos\LineCross\LineCross\LineCross.cpp(482,35): warning C4326: 'main' öğesinin dönüş türü 'int' olmalıdır, 'void' değil
+  LineCross.vcxproj -> C:\Users\adminyus\source\repos\LineCross\Debug\LineCross.exe
